@@ -1,3 +1,3 @@
 # Responsive-Portfolio
 
-Basic Portfolio updated to incorporate the CSS framework, Twitter Bootstrap, as well as features that responsiveness to changes in screen widths. 
+Basic Portfolio updated to incorporate the Bootstrap. In addition to adding a framework, the portfolio was made to be responsive to varying screen sizes.
